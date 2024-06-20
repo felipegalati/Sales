@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\Sales\\API\\AMS3ASales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\domain\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\domain\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\domain\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\domain\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\migrations\\20240409175114_categoryproductrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\migrations\\20240409175114_categoryproductrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "AMS3ASales.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "AMS3ASales.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:24:49.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240409175114_CategoryProductRelation.cs",
+              "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Migrations\\20240409175114_CategoryProductRelation.cs",
+              "RelativeDocumentMoniker": "AMS3ASales.API\\Migrations\\20240409175114_CategoryProductRelation.cs",
+              "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Migrations\\20240409175114_CategoryProductRelation.cs",
+              "RelativeToolTip": "AMS3ASales.API\\Migrations\\20240409175114_CategoryProductRelation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:51:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AMS3ASales.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AMS3ASales.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:42:41.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "AMS3ASales.API\\Domain\\Product.cs",
+              "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\Product.cs",
+              "RelativeToolTip": "AMS3ASales.API\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:43:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\request\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "AMS3ASales.API\\Domain\\request\\ProductRequest.cs",
+              "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\request\\ProductRequest.cs",
+              "RelativeToolTip": "AMS3ASales.API\\Domain\\request\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:31:29.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\request\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "AMS3ASales.API\\Domain\\request\\CategoryRequest.cs",
+              "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\request\\CategoryRequest.cs",
+              "RelativeToolTip": "AMS3ASales.API\\Domain\\request\\CategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:07:54.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "AMS3ASales.API\\Domain\\Category.cs",
+              "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\Category.cs",
+              "RelativeToolTip": "AMS3ASales.API\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:38:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Program.cs",
+              "RelativeDocumentMoniker": "AMS3ASales.API\\Program.cs",
+              "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Program.cs",
+              "RelativeToolTip": "AMS3ASales.API\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:38:02.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

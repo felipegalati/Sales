@@ -1,0 +1,25 @@
+<div class="container">
+    <h1>Products</h1>
+    <div class="d-flex justify-content-end mt-3"></div>
+    <a routerLink="/add-product" class="btn btn-primary">New Product</a> 
+    <ng-container *ngIf="products">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">Stock</th>
+            <th scope="col">Image</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let product of products">
+            <td>{{product.description}}</td> 
+            <td>{{product.price}}</td> 
+            <td>{{product.stock}}</td>
+            <td>{{product.imageurl}}</td>  
+           </tr>
+        </tbody> 
+      </table>
+    </ng-container>
+  </div>

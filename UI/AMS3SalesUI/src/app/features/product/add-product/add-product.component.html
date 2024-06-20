@@ -1,0 +1,28 @@
+<div class="container">
+    <h1 class="mt-3">Adicionar Produto</h1>
+
+    <form #form="ngForm" (ngSubmit)="onFormSubmit()">    
+        <div class="mt-2">
+            <div class="mt-3">
+            <label class="form-label">Descrição</label>
+            <input type="text" id="description" class="form-control" name="description" [(ngModel)]="model.description">
+            
+            <label class="form-label">imageurl</label>
+            <input type="text" id="imageurl" class="form-control" name="imageurl" [(ngModel)]="model.imageurl">
+            
+            <label class="form-label">Preço</label>
+            <input type="text" id="price" class="form-control" name="price" [(ngModel)]="model.price">
+
+            <label class="form-label">Estoque</label>
+            <input type="text" id="stock" class="form-control" name="stock" [(ngModel)]="model.stock">
+
+            <label class="form-label">CategoryId</label>
+            <input type="text" id="categoryid" class="form-control" name="categoryid" [(ngModel)]="model.categoryid">
+        
+        </div> 
+    </div>
+    <div class="mt-3">
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </div>
+</form>
+</div>
