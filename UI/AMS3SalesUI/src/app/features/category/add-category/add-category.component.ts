@@ -14,6 +14,7 @@ import { FormsModule, NgForm } from '@angular/forms';
 })
 export class AddCategoryComponent {
   model: AddCategoryRequest;
+  router: any;
 
   constructor(private categoryService:CategoryService
   ) {
@@ -28,6 +29,7 @@ export class AddCategoryComponent {
     .subscribe({
       next:(response)=>{
         console.log(response);
+        
       }
     });
   }

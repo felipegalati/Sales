@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\src\\Sales\\API\\AMS3ASales\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|c:\\src\\sales\\api\\ams3asales\\ams3asales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D8C7C29-F4EE-4853-A728-34F06483A024}|AMS3ASales.API\\AMS3ASales.API.csproj|solutionrelative:ams3asales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "AMS3ASales.API\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "AMS3ASales.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:24:49.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20240409175114_CategoryProductRelation.cs",
               "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Migrations\\20240409175114_CategoryProductRelation.cs",
               "RelativeDocumentMoniker": "AMS3ASales.API\\Migrations\\20240409175114_CategoryProductRelation.cs",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "AMS3ASales.API\\Migrations\\20240409175114_CategoryProductRelation.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T17:51:14.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T17:51:14.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "AMS3ASales.API\\Controllers\\ProductsController.cs",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "AMS3ASales.API\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAQwCwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T16:42:41.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T16:42:41.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "AMS3ASales.API\\Domain\\Product.cs",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "AMS3ASales.API\\Domain\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAkwAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T16:43:46.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T16:43:46.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductRequest.cs",
               "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\request\\ProductRequest.cs",
               "RelativeDocumentMoniker": "AMS3ASales.API\\Domain\\request\\ProductRequest.cs",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "AMS3ASales.API\\Domain\\request\\ProductRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:31:29.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:31:29.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryRequest.cs",
               "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\request\\CategoryRequest.cs",
               "RelativeDocumentMoniker": "AMS3ASales.API\\Domain\\request\\CategoryRequest.cs",
@@ -131,12 +127,11 @@
               "RelativeToolTip": "AMS3ASales.API\\Domain\\request\\CategoryRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:07:54.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T13:07:54.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\src\\Sales\\API\\AMS3ASales\\AMS3ASales.API\\Domain\\Category.cs",
               "RelativeDocumentMoniker": "AMS3ASales.API\\Domain\\Category.cs",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "AMS3ASales.API\\Domain\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T16:38:16.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T16:38:16.046Z"
             },
             {
               "$type": "Document",

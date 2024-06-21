@@ -10,6 +10,7 @@
                         
                         <th scope="col">Description</th>
                         <th scope="col">Image URL</th>
+                        <th scope="col">Action</th>
                         
                     </tr>
                 </thead>
@@ -18,6 +19,11 @@
                         
                         <td>{{category.description}}</td>
                         <td>{{category.imageurl}}</td>
+                    <td>
+                        
+                        <button class="btn btn-warning me-1" [routerLink]="['/edit-category', category.id]">Edit</button>
+                        <button class="btn btn-danger">Delete</button>
+                    </td>
                         
                     </tr>
                 
